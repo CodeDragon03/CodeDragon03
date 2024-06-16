@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img height="300" src="[(https://github.com/CodeDragon03/CodeDragon03/blob/main/Profile%20Image.jpg)]"  />
+  <img height="300" src="https://github.com/CodeDragon03/CodeDragon03/blob/main/Profile%20Image.jpg"  />
 </div>
 
 ###

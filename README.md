@@ -29,8 +29,6 @@
 
 ###
 
-<br clear="both">
-
 - Github Campus Expert
 - ICPC 2025.
 - GSOC 2025.
@@ -42,21 +40,6 @@
 <h2 align="left">🎉Funfact</h2>
 
 ###
-
-<br clear="both">
-
-- Github Campus Expert
-- ICPC 2025.
-- GSOC 2025.
-- Win two hackathons in 2025.
-- Be 1% better. 
-
-###
-</h2>
-
-###
-
-<br clear="both">
 
 - Coming Soon ....
 

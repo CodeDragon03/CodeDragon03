@@ -21,10 +21,8 @@
 
 <br clear="both">
 
-<p align="left">
-  -✨ Creating bugs since 2022.
-  - More coming here .....
-</p>
+-✨ Creating bugs since 2022.
+- Happy to connect 🤝 .....
 
 ###
 

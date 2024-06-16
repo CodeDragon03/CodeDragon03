@@ -49,19 +49,15 @@
 
 ###
 
-- [Technology]
-- [Technology]
-- [Technology]
-
+- Coming Soon ....
+  
 ###
 
 <h2 align="left"> 🔭 Currently Working On:</h2>
 
 ###
 
-- [Project 1](https://github.com/yourusername/project1)
-- [Project 2](https://github.com/yourusername/project2)
-- [Project 3](https://github.com/yourusername/project3)
+- Coming Soon ....
 
 ###
 
@@ -69,9 +65,7 @@
 
 ###
 
-- [Blog Post 1](https://yourblog.com/blog-post-1)
-- [Blog Post 2](https://yourblog.com/blog-post-2)
-- [Blog Post 3](https://yourblog.com/blog-post-3)
+- Coming Soon ....
 
 ###
 
@@ -79,9 +73,7 @@
 
 ###
 
-- [Topic]
-- [Topic]
-- [Topic]
+- Coming Soon ....
 
 ###
 

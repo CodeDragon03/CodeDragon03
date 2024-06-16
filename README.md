@@ -20,8 +20,7 @@
 
 <br clear="both">
 
-- ✨ Creating bugs since 2022
-- Happy to connect 🤝 .....
+<p>✨ Creating bugs since 2022. more coming soon ...</p>
 
 ###
 

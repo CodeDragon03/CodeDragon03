@@ -21,7 +21,10 @@
 
 <br clear="both">
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Full Stack Development and Machine Learning.</p>
+<p align="left">
+  -✨ Creating bugs since 2022.
+  -📚 I'm currently learning Full Stack Development and Machine Learning.
+</p>
 
 ###
 
@@ -168,10 +171,20 @@
 
 ###
 
+<h2 align="left">My Stats</h2>
+
+###
+
+<br clear="both">
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CodeDragon03&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeDragon03&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<h2 align="left">My Socials</h2>
 
 ###
 
@@ -189,9 +202,17 @@
 
 ###
 
+<h2 align="left">My Activity</h2>
+
+###
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/CodeDragon03/CodeDragon03/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h2 align="left">My Profile Reach</h2>
 
 ###
 
@@ -201,9 +222,13 @@
 
 ###
 
+<h2 align="left">Tune with Me !!</h2>
+
+###
+
 <div align="center">
   <a href="https://open.spotify.com/user/31674e4iksk4wj3duizdnpwgmnhu">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31674e4iksk4wj3duizdnpwgmnhu&count=5&unique=true" alt="Spotify recently played"  />
+    <img width="100%" src="https://spotify-recently-played-readme.vercel.app/api?user=31674e4iksk4wj3duizdnpwgmnhu&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 

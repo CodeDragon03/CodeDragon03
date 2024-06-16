@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img height="300" src="https://github.com/CodeDragon03/CodeDragon03/blob/main/Profile%20Image.jpg"  />
+  <img width="100%" src="https://github.com/CodeDragon03/CodeDragon03/blob/main/Profile%20Image.jpg"  />
 </div>
 
 ###
@@ -15,7 +15,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left"> 🙂 About me</h2>
 
 ###
 
@@ -23,12 +23,12 @@
 
 <p align="left">
   -✨ Creating bugs since 2022.
-  -📚 I'm currently learning Full Stack Development and Machine Learning.
+  - More coming here .....
 </p>
 
 ###
 
-<h2 align="left">🎯 Goals:</h2>
+<h2 align="left"> 🎯 Goals:</h2>
 
 ###
 
@@ -36,20 +36,72 @@
 - ICPC 2025.
 - GSOC 2025.
 - Win two hackathons in 2025.
-- Be 1% better. 
+- Be 1% better.
+
+---
 
 ###
 
-<h2 align="left">🎉Funfact</h2>
+<h2 align="left">⚡ Fun Fact:</h2>
 
 ###
 
 - Coming Soon ....
 
+---
+
+###
+
+<h2 align="left"> 🌱 Currently Learning:</h2>
+
+###
+
+- [Technology]
+- [Technology]
+- [Technology]
+
+---
+
+###
+
+<h2 align="left"> 🔭 Currently Working On:</h2>
+
+###
+
+- [Project 1](https://github.com/yourusername/project1)
+- [Project 2](https://github.com/yourusername/project2)
+- [Project 3](https://github.com/yourusername/project3)
+
+---
+
+###
+
+<h2 align="left"> 📝 Latest Blog Posts:</h2>
+
+###
+
+- [Blog Post 1](https://yourblog.com/blog-post-1)
+- [Blog Post 2](https://yourblog.com/blog-post-2)
+- [Blog Post 3](https://yourblog.com/blog-post-3)
+
+---
+
+###
+
+<h2 align="left"> 💬 Ask Me About:</h2>
+
+###
+
+- [Topic 1]
+- [Topic 2]
+- [Topic 3]
+
+---
+
 ###
 
 
-<h2 align="left">My Tech Stack</h2>
+<h2 align="left">🛠️ Technologies & Tools</h2>
 
 ###
 
@@ -171,7 +223,7 @@
 
 ###
 
-<h2 align="left">My Stats</h2>
+<h2 align="left"> 📈 My GitHub Stats:</h2>
 
 ###
 
@@ -184,7 +236,15 @@
 
 ###
 
-<h2 align="left">My Socials</h2>
+<h2 align="left"> 📫 How to Reach Me:</h2>
+
+###
+
+- Email: [youremail@example.com](mailto:youremail@example.com)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
+- Twitter: [Your Twitter](https://twitter.com/yourprofile)
+
+---
 
 ###
 
@@ -202,7 +262,7 @@
 
 ###
 
-<h2 align="left">My Activity</h2>
+<h2 align="left"> 📃 My Activity:</h2>
 
 ###
 
@@ -212,7 +272,7 @@
 
 ###
 
-<h2 align="left">My Profile Reach</h2>
+<h2 align="left"> 📊 My Profile Reach:</h2>
 
 ###
 
@@ -222,7 +282,7 @@
 
 ###
 
-<h2 align="left">Tune with Me !!</h2>
+<h2 align="left">🎧 Spotify Playing:</h2>
 
 ###
 

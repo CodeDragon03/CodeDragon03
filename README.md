@@ -1,3 +1,10 @@
+
+<div align="center">
+  <img height="300" src="[(https://github.com/CodeDragon03/CodeDragon03/blob/main/Profile%20Image.jpg)]"  />
+</div>
+
+###
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -177,14 +184,6 @@
   <a href="https://open.spotify.com/user/31674e4iksk4wj3duizdnpwgmnhu">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31674e4iksk4wj3duizdnpwgmnhu&count=5&unique=true" alt="Spotify recently played"  />
   </a>
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="300" src="[https://i.imgflip.com/65efzo.gif](https://github.com/account)"  />
 </div>
 
 ###

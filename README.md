@@ -27,9 +27,9 @@
 ###
 
 - Github Campus Expert
-- ICPC 2025.
-- GSOC 2025.
-- Win two hackathons in 2025.
+- ICPC.
+- GSOC.
+- Win two hackathons each year.
 - Be 1% better.
 
 ###

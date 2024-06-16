@@ -1,4 +1,3 @@
-
 <div align="center">
   <img width="100%" src="https://github.com/CodeDragon03/CodeDragon03/blob/main/Profile%20Image.jpg"  />
 </div>
@@ -36,8 +35,6 @@
 - Win two hackathons in 2025.
 - Be 1% better.
 
----
-
 ###
 
 <h2 align="left">⚡ Fun Fact:</h2>
@@ -45,8 +42,6 @@
 ###
 
 - Coming Soon ....
-
----
 
 ###
 
@@ -58,8 +53,6 @@
 - [Technology]
 - [Technology]
 
----
-
 ###
 
 <h2 align="left"> 🔭 Currently Working On:</h2>
@@ -69,8 +62,6 @@
 - [Project 1](https://github.com/yourusername/project1)
 - [Project 2](https://github.com/yourusername/project2)
 - [Project 3](https://github.com/yourusername/project3)
-
----
 
 ###
 
@@ -82,19 +73,15 @@
 - [Blog Post 2](https://yourblog.com/blog-post-2)
 - [Blog Post 3](https://yourblog.com/blog-post-3)
 
----
-
 ###
 
 <h2 align="left"> 💬 Ask Me About:</h2>
 
 ###
 
-- [Topic 1]
-- [Topic 2]
-- [Topic 3]
-
----
+- [Topic]
+- [Topic]
+- [Topic]
 
 ###
 
@@ -238,24 +225,16 @@
 
 ###
 
-- Email: [youremail@example.com](mailto:youremail@example.com)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
-- Twitter: [Your Twitter](https://twitter.com/yourprofile)
-
----
-
-###
-
 <br clear="both">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />](https://www.linkedin.com/in/yourprofile)
+  [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />](https://twitter.com/yourprofile)
+  [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />]()
+  [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />]()
+  [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />]()
+  [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />]()
+  [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />](mailto:youremail@example.com)
 </div>
 
 ###

@@ -21,9 +21,47 @@
 
 <br clear="both">
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Full Stack Development  and Machine Learning<br>🎯 Goals: <br>🎲 Fun fact:</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Full Stack Development and Machine Learning.</p>
 
 ###
+
+<h2 align="left">🎯 Goals:</h2>
+
+###
+
+<br clear="both">
+
+- Github Campus Expert
+- ICPC 2025.
+- GSOC 2025.
+- Win two hackathons in 2025.
+- Be 1% better. 
+
+###
+
+<h2 align="left">🎉Funfact</h2>
+
+###
+
+<br clear="both">
+
+- Github Campus Expert
+- ICPC 2025.
+- GSOC 2025.
+- Win two hackathons in 2025.
+- Be 1% better. 
+
+###
+</h2>
+
+###
+
+<br clear="both">
+
+- Coming Soon ....
+
+###
+
 
 <h2 align="left">My Tech Stack</h2>
 

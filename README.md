@@ -18,8 +18,6 @@
 
 ###
 
-<br clear="both">
-
 <p>✨ Creating bugs since 2022. more coming soon ...</p>
 
 ###

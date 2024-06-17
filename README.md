@@ -217,8 +217,8 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/jay-yadav-584bb2287" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /> 
+  <a href="www.linkedin.com/in/jay-yadav-584bb2287" target="_blank" style="text-decoration:none">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/CodeDragon03" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
@@ -229,7 +229,7 @@
   <a href="https://theworkdude.slack.com/team/U0769C636BD" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
   </a>
-  <a href="mailto:jay923060@gmail.com" target="_blank">
+  <a href="jay923060@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.hackerrank.com/profile/jay923060" target="_blank">

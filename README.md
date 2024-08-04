@@ -10,7 +10,7 @@
 
 <br clear="both">
 
-<p align="left">My name is Jay Yadav and I'm a Full  Stack Developer, AI researcher, Machine Learning Developer, and an optimistic Innovator by passion and Software Development Engineer by profession from India, Asia.</p>
+<p align="left">My name is Jay Yadav and I'm a Full  Stack Machine Learning Engineer, and an optimistic Innovator by passion and Software Development Engineer by profession from India, Asia.</p>
 
 ###
 

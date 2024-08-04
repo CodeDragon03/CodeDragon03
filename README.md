@@ -219,7 +219,7 @@
 <br clear="both">
 
 <div align="center">
-  <a href="www.linkedin.com/in/jay-yadav-584bb2287" target="_blank" >
+  <a href="#" target="_blank" >
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="linkedin logo"  />
   </a> &nbsp;
   <a href="https://x.com/CodeDragon03" target="_blank" >
@@ -231,7 +231,7 @@
   <a href="https://theworkdude.slack.com/team/U0769C636BD" target="_blank" >
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="40" height="40" alt="slack logo"  />
   </a> &nbsp;
-  <a href="jay923060@gmail.com" target="_blank" >
+  <a href="#" target="_blank" >
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="gmail logo"  />
   </a> &nbsp;
   <a href="https://www.hackerrank.com/profile/jay923060" target="_blank" >

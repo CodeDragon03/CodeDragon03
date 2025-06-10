@@ -1,3 +1,3 @@
-![Poster](./Poster.png)
+![Poster](./workflow/Poster.png)
 
 # Jay Yadav

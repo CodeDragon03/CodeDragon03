@@ -10,7 +10,7 @@
 
 </div>
 
-    % I speak fluent bugs, love to write my code (The human way!) and optimize for human readability!
+    % I speak fluent bugs, love to write my code (The human way) and optimize for human readability!
 
 <h3>Product Description:</h3>
 

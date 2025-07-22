@@ -10,11 +10,11 @@
 
 </div>
 
+    % I speak fluent bugs, love to write my code and optimize for human readability in this fake era of AI!
+
 <h3>Product Description:</h3>
 
 <div style="margin-bottom:48px;">
-
-    % I speak fluent bugs and optimize for human readability.
 
     {
         "Known": "Jay",

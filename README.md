@@ -86,7 +86,7 @@
 
 <h3>Expection Vs Reality:</h3>
 
-<div style="margin-bottom:24px;">
+<div>
 
 ![CodeDragon03's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodeDragon03&theme=tokyonight&hide_border=false)
 

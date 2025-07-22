@@ -26,6 +26,7 @@
         "Open To Collabration!": "Absolutely!",
 
         "Skill Issues": {
+
             "Problem Solving and DSA": [C++, C, Python],
 
             "Deep Learning": [Tensorflow, PyTorch],
@@ -35,15 +36,21 @@
             "Back End": [Node js, Express, Mongo DB, Docker],
 
             "DataBase": [MySQL, SQL lite]
+
         },
 
         "Certificaation": {
+
             "IBM": "IBM Professional AI Engineer Certification",
+
             "DeepLearning.AI": "Mathematics For Machine Learning and Data Science"
+
         }
 
         "Book's Refered": {
+
             "Practical Python AI Projects": "Serge Kruk",
+
         }
 
         "Current Quest": "On the hunt for the next legendary dev role. (aka Professional Job Seeker!)",
@@ -51,8 +58,11 @@
         "Dream Gig Prefers": "Full Time | Internship (where coffee flows freely)",
 
         "Adventure Coordinates": {
+
             "India": "On-site for the good vibes, or remote for peak focus.",
+
             "Beyond Borders": "Remote, because my code travels well."
+
         }
     }
 
@@ -81,9 +91,3 @@
 ![CodeDragon03's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodeDragon03&theme=tokyonight&hide_border=false)
 
 </div>
-
-<footer align="center">
-
-<h3 text-align="center">Thanks for stopping by! See you next time</h3>
-
-</footer>

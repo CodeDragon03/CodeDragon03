@@ -12,7 +12,7 @@
 
 </div>
 
-    % I speak fluent bugs, love to write my code (The human way) and optimize for human readability!
+    % "I love building things, and I believe code should be written for people first, computers second. Less head-scratching, more high-fives!."
 
 <h3>Product Description:</h3>
 

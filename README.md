@@ -1,7 +1,9 @@
 ![Poster](./workflow/Poster.jpeg)
 
 <h1>git commit -m "Hello, I'm Jay" </h1>
-<blockquote style="margin-bottom:56px;">AI Research Scientist, AI Solutions Engineer & Freelancer |  Applied ML, Deep Learning & Reinforcement Learning | Implemented 100+ Cutting-Edge AI research papers</blockquote>
+<blockquote style="margin-bottom:56px;">
+    Software Development Engineer, Software Architect | Building Scalable and Maintainable Solutions | Full-Stack Developer | Expert@Code Forces
+</blockquote>
 
 <div style="margin-bottom:24px;" align="center">
 

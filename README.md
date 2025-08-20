@@ -16,8 +16,7 @@
 
 <h3>Product Description:</h3>
 
-<code style="margin-bottom:48px;">
-
+```
     {
   "name": "JAY YADAV",
   "contact": {
@@ -118,7 +117,7 @@
     "github": "github.com/in/CodeDragon03"
   }
 }
-</code>
+```
 
 <h3>My Love Language:</h3>
 

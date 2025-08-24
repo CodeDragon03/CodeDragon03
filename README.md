@@ -84,7 +84,7 @@
 
 <div style="margin-bottom:48px;" align='center'>
 
-![CodeDragon03's Stats](https://github-readme-stats.vercel.app/api?username=CodeDragon03&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&layout=compact)
 ![CodeDragon03's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodeDragon03&theme=tokyonight&hide_border=false&layout=compact)
+![CodeDragon03's Stats](https://github-readme-stats.vercel.app/api?username=CodeDragon03&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&layout=compact)
 
 </div>

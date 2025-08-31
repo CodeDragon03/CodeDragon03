@@ -5,6 +5,8 @@
     Software Development Engineer, Software Architect | Building Scalable and Maintainable Solutions | Full-Stack Developer | Pupilt@Code Forces
 </blockquote>
 
+    "I love building things, and I believe code should be written for people first, computers second. Less head-scratching, more high-fives!."
+
 <div style="margin-bottom:24px;" align="center">
 
 ![GitHub followers](https://img.shields.io/github/followers/CodeDragon03?style=for-the-badge&logo=github)
@@ -16,8 +18,6 @@
 ![CodeDragon03's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDragon03&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 </div>
-
-    "I love building things, and I believe code should be written for people first, computers second. Less head-scratching, more high-fives!."
 
 <h3>Product Description:</h3>
 

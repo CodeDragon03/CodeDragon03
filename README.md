@@ -11,6 +11,11 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/CodeDragon03?style=for-the-badge&logo=github)
 
 </div>
+<div align='center'>
+    
+![CodeDragon03's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDragon03&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+
+</div>
 
     "I love building things, and I believe code should be written for people first, computers second. Less head-scratching, more high-fives!."
 
@@ -70,12 +75,6 @@
 
         }
     }
-
-</div>
-
-<div align='center'>
-    
-![CodeDragon03's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDragon03&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 </div>
 

@@ -80,7 +80,7 @@
 
 <h3>My Engineering status:</h3>
 
-<div style="margin-bottom:48px;">
+<div style="margin-bottom:48px;" align="center">
 
 ![CodeDragon03's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodeDragon03&theme=tokyonight&hide_border=false&layout=compact)
 

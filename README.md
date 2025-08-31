@@ -73,11 +73,14 @@
 
 </div>
 
+<div align='center'>
+    ![CodeDragon03's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDragon03&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+</div>
+
 <h3>My Engineering status:</h3>
 
 <div style="margin-bottom:48px;">
 
 ![CodeDragon03's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodeDragon03&theme=tokyonight&hide_border=false&layout=compact)
-![CodeDragon03's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDragon03&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 </div>

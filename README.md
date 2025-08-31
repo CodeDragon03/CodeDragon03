@@ -74,7 +74,7 @@
 </div>
 
 <div align='center'>
-    ![CodeDragon03's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDragon03&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+![CodeDragon03's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDragon03&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 </div>
 
 <h3>My Engineering status:</h3>

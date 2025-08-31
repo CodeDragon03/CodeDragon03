@@ -2,7 +2,7 @@
 
 <h1>git commit -m "Hello, I'm Jay" </h1>
 <blockquote style="margin-bottom:56px;">
-    Software Development Engineer, Software Architect | Building Scalable and Maintainable Solutions | Full-Stack Developer | Expert@Code Forces
+    Software Development Engineer, Software Architect | Building Scalable and Maintainable Solutions | Full-Stack Developer | Pupilt@Code Forces
 </blockquote>
 
 <div style="margin-bottom:24px;" align="center">

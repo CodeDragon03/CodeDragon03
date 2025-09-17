@@ -82,6 +82,6 @@
 
 <div style="margin-bottom:48px;" align="center">
 
-![CodeDragon03's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodeDragon03&theme=tokyonight&hide_border=false&layout=compact)
+[![CodeDragon03 GitHub Streak](https://streak-stats.demolab.com?user=CodeDragon03&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>

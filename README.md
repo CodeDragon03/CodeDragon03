@@ -24,56 +24,7 @@
 <div style="margin-bottom:48px;">
 
     {
-        "Known By": "Jay Yadav",
-
-        "Origin Story": "Born in India, powered by chai and code.",
-
-        "Digital Postbox": "jay7666.social@gmail.com",
-
-        "Open To Collabration": "Absolutely!",
-
-        "Skill Issues": {
-
-            "Languages & Algorithms": {
-                 'Python': (5+ Star HackerRank),
-                 'C++': (5+ Star HackerRank),
-                 'C': (5+ Star HackerRank),
-                 'JavaScript': (5+ Star HackerRank)
-            },
-
-            "Frameworks & Libraries": {
-                'React': (Intermediate), 
-                'Node.js': (Beginner), 
-                'Express': (Beginner),
-                'Monorepo': (Beginner)
-                'TensorFlow': (Intermediate), 
-                'PyTorch': (Beginner).
-                'Framer Motion': (Beginner).
-            },
-
-            "Databases & Tools": {
-                'MySQL': (5+ Star HackerRank),
-                'MongoDB' (Beginner), 
-                'Redis' (Beginner),
-                'Kafka': (Beginner), 
-                'Docker': (Beginner), 
-                'AWS': (Beginner).
-                'System Design' (Intermediate).
-            }
-
-        },
-
-        "Current Quest": "On the hunt for the next legendary dev role. (aka Professional Job Seeker!)",
-
-        "Dream Gig Prefers": "Full Time | Internship (where coffee flows freely)",
-
-        "Adventure Coordinates": {
-
-            "India": "On-site for the good vibes, or remote for peak focus.",
-
-            "Beyond Borders": "Remote, because my code travels well."
-
-        }
+        The grind is on so new things coming soon...
     }
 
 </div>

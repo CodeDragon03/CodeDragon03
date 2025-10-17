@@ -26,7 +26,7 @@
     {
        "Known By": "Jay Yadav",
 
-        "Origin Story": "Born in India, powered by chai and code.",
+        "Origin Story": "Born in India, powered by coffee and code.",
 
         "Digital Postbox": "jay7666.social@gmail.com",
 

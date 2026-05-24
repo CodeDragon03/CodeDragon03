@@ -35,10 +35,6 @@
             ... loading
         },
 
-        "Hunt":{
-            The C Programming: In Progress,
-        },
-
         "Quest": "On the hunt with K and R for the tast of C.",
 
         "Gig": "Full Time | Internship (where coffee flows freely)",

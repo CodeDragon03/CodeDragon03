@@ -2,7 +2,7 @@
 
 <h1>git commit -m "Hello, I'm Jay" </h1>
 <blockquote style="margin-bottom:56px;">
-    Software Development Engineer, Software Architect | Building Scalable and Maintainable Solutions | Full-Stack Developer | Pupilt@Code Forces
+    Forward Deployed Engineer, AI Engineer | Deep Tech | Architecting Systems & Intelligence | High Performance Core | TPC Member @ IEEE CSNT 2026
 </blockquote>
 
     "I love building things, and I believe code should be written for people first, computers second. Less head-scratching, more high-fives!."
@@ -13,15 +13,16 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/CodeDragon03?style=for-the-badge&logo=github)
 
 </div>
-<div align='center'>
-    
-![CodeDragon03's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDragon03&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+
+<div style="margin-bottom:48px;" align="center">
+
+[![CodeDragon03 GitHub Streak](https://streak-stats.demolab.com?user=CodeDragon03&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
-<h3>Product Description:</h3>
+<h3>Technical Specification (TPS):</h3>
 
-<div style="margin-bottom:48px;">
+<span style="margin-bottom:48px; float:left;">
 
     {
        "Known By": "Jay Yadav",
@@ -30,58 +31,27 @@
 
         "Digital Postbox": "jay7666.social@gmail.com",
 
-        "Open To Collabration": "Absolutely!",
-
         "Skill Issues": {
-
-            "Languages & Algorithms": {
-                 'Python': (5+ Star HackerRank),
-                 'C++': (5+ Star HackerRank),
-                 'C': (5+ Star HackerRank),
-                 'JavaScript': (5+ Star HackerRank)
-            },
-
-            "Frameworks & Libraries": {
-                'React': (Intermediate), 
-                'Node.js': (Beginner), 
-                'Express': (Beginner),
-                'Monorepo': (Beginner)
-                'TensorFlow': (Intermediate), 
-                'PyTorch': (Beginner).
-                'Framer Motion': (Beginner).
-            },
-
-            "Databases & Tools": {
-                'MySQL': (5+ Star HackerRank),
-                'MongoDB' (Beginner), 
-                'Redis' (Beginner),
-                'Kafka': (Beginner), 
-                'Docker': (Beginner), 
-                'AWS': (Beginner).
-                'System Design' (Intermediate).
-            }
-
+            ... loading
         },
 
-        "Current Quest": "On the hunt for the next legendary dev role. (aka Professional Job Seeker!)",
+        "Hunt":{
+            The C Programming: In Progress,
+        },
 
-        "Dream Gig Prefers": "Full Time | Internship (where coffee flows freely)",
+        "Quest": "On the hunt with K and R for the tast of C.",
+
+        "Gig": "Full Time | Internship (where coffee flows freely)",
 
         "Adventure Coordinates": {
 
-            "India": "On-site for the good vibes, or remote for peak focus.",
+            "India": "On-site for the good vibes.",
 
             "Beyond Borders": "Remote, because my code travels well."
 
         }
     }
 
-</div>
+</span>
 
-<h3>My Engineering status:</h3>
 
-<div style="margin-bottom:48px;" align="center">
-
-[![CodeDragon03 GitHub Streak](https://streak-stats.demolab.com?user=CodeDragon03&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>

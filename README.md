@@ -1,4 +1,4 @@
-![Poster](./workflow/Poster.jpeg)
+![Poster](./workflow/Poster.png)
 
 <h1>git commit -m "Hello, I'm Jay" </h1>
 <blockquote style="margin-bottom:56px;">

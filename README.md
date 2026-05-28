@@ -14,11 +14,8 @@
 
 </div>
 
-<div style="margin-bottom:48px;" align="center">
-
 ![snake animation](https://raw.githubusercontent.com/YOUR_GITHUB_NAME/YOUR_GITHUB_NAME/output/github-contribution-grid-snake.svg)
 
-</div>
 
 <h3>Technical Specification (TPS):</h3>
 
@@ -50,6 +47,10 @@
 
 </span>
 
+<div style="margin-bottom:48px;" align="center">
+    
 [![CodeDragon03 GitHub Streak](https://streak-stats.demolab.com?user=CodeDragon03&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 
     Note: I don't like to use LLM's in my projects for coding, so they are by human for human only. Thank you!

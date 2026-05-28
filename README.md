@@ -10,6 +10,7 @@
 <div style="margin-bottom:24px;" align="center">
     
 ![GitHub followers](https://img.shields.io/github/followers/CodeDragon03?style=for-the-badge&logo=github)
+![GitHub User's stars](https://img.shields.io/github/stars/CodeDragon03?style=for-the-badge&logo=github)
 
 </div>
 

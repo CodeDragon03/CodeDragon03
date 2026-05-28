@@ -51,3 +51,4 @@
 </span>
 
 
+    Note: I don't like to use LLM's in my projects for coding, so they are by human for human only. Thank you!

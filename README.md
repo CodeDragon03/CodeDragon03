@@ -14,7 +14,7 @@
 
 </div>
 
-![snake animation](https://raw.githubusercontent.com/YOUR_GITHUB_NAME/YOUR_GITHUB_NAME/output/github-contribution-grid-snake.svg)
+![snake animation](https://raw.githubusercontent.com/CodeDragon03/CodeDragon03/output/github-contribution-grid-snake.svg)
 
 
 <h3>Technical Specification (TPS):</h3>

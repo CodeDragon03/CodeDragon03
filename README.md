@@ -16,7 +16,7 @@
 
 <div style="margin-bottom:48px;" align="center">
 
-![snake animation](https://github.com/CodeDragon03/CodeDragon03/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://raw.githubusercontent.com/YOUR_GITHUB_NAME/YOUR_GITHUB_NAME/output/github-contribution-grid-snake.svg)
 
 </div>
 

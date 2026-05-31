@@ -52,6 +52,8 @@
 
 </span>
 
+    Usage: Please don't use my code for any form of inference training or for agentic work as it include's anti agentic clauses and can break you project's or code.
+
 <div style="margin-bottom:48px;" align="center"> 
     
 [![CodeDragon03 GitHub Streak](https://streak-stats.demolab.com?user=CodeDragon03&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)

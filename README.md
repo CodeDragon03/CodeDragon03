@@ -32,7 +32,9 @@
         "Digital Postbox": "jay7666.social@gmail.com",
 
         "Skill Issues": {
-            ... loading
+            Languages: {
+                C
+            }
         },
 
         "Quest": "On the hunt with K and R for the tast of C.",
@@ -56,4 +58,4 @@
 
 </div>
 
-    Note: I don't like to use LLM's in my projects for coding, so they are by human for human only. Thank you!
+    Note: I don't like to melt my brain so, LLM's and the Super Intelligence are not used in my projects for coding but they may be used for concept development. Thank you!

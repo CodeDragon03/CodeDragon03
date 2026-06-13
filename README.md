@@ -20,6 +20,12 @@
 
 </div>
 
+                                        I must Create a System, or be enslav’d by another Man’s; 
+                                        I will not Reason and Compare, my business is to Create. 
+
+                                                                                                                   William Blake
+
+
 <h3>Technical Specification (TPS):</h3>
 
 <span style="margin-bottom:48px; float:left;">
@@ -31,16 +37,17 @@
 
         "Digital Postbox": "jay7666.social@gmail.com",
 
-        "Skill Issues": {
-            Languages: {
-                C, C++
-            },
-            Traits: {
-                Problem Solving, System Architecture
+        "Issues": {
+            Languages: [ C ],
+            Frameworks: [],
+            Databases: [],
+            Skills: {
+                Soft: [ Problem Solving, Ideation ],
+                Hard: [ Systems Programming ]
             }
         },
 
-        "Quest": "On the hunt with K and R for the tast of C.",
+        "Quest": "On the hunt with K & R for the tast of C.",
 
         "Gig": "Full Time | Internship (where coffee flows freely)",
 
@@ -54,11 +61,6 @@
     }
 
 </span>
-
-                                        I must Create a System, or be enslav’d by another Man’s; 
-                                        I will not Reason and Compare: my business is to Create. 
-
-                                                                                                                   William Blake
 
 <div style="margin-bottom:48px;" align="center"> 
     

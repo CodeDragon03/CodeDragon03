@@ -33,7 +33,10 @@
 
         "Skill Issues": {
             Languages: {
-                C
+                C, C++
+            },
+            Traits: {
+                Problem Solving, System Architecture
             }
         },
 

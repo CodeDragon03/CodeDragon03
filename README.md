@@ -52,8 +52,8 @@
 
 </span>
 
-    I must Create a System, or be enslav’d by another Man’s; 
-    I will not Reason and Compare: my business is to Create. 
+                                I must Create a System, or be enslav’d by another Man’s; 
+                                I will not Reason and Compare: my business is to Create. 
 
                                                                                                                    William Blake
 

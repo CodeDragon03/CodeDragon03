@@ -52,7 +52,9 @@
 
 </span>
 
-    Usage: Please don't use my code for any form of inference training or for agentic work as it include's anti agentic clauses and can break you project's or code.
+    I must Create a System, or be enslav’d by another Man’s; I will not Reason and Compare: my business is to Create. 
+
+                                                                                                        William Blake
 
 <div style="margin-bottom:48px;" align="center"> 
     

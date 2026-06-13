@@ -54,7 +54,7 @@
 
     I must Create a System, or be enslav’d by another Man’s; I will not Reason and Compare: my business is to Create. 
 
-                                                                                                                        William Blake
+                                                                                                                    William Blake
 
 <div style="margin-bottom:48px;" align="center"> 
     
@@ -62,4 +62,4 @@
 
 </div>
 
-    Note: I don't like to melt my brain so, LLM's and the Super Intelligence are not used in my projects for coding but they may be used for concept development. Thank you!
+    Note: I don't like to melt my brain so, LLM's and the Super Intelligence are not used in my projects for auto mode coding but they may be used for concept development. Thank you!

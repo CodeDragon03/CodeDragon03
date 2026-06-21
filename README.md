@@ -42,7 +42,7 @@
             Frameworks: [],
             Databases: [],
             Skills: {
-                Soft: [ Problem Solving, Ideation ],
+                Soft: [ Problem Solving, Ideation, Prototyping (MVP) ],
                 Hard: [ Data Structures Algoritms and Analysis (DAA), Systems Programming ]
             }
         },

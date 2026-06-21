@@ -21,7 +21,7 @@
 </div>
 
                                         I must Create a System, or be enslav’d by another Man’s; 
-                                        I will not Reason and Compare, my business is to Create. 
+                                        I will Reason but not Compare, my business is to Create. 
 
                                                                                                                    William Blake
 
@@ -43,7 +43,7 @@
             Databases: [],
             Skills: {
                 Soft: [ Problem Solving, Ideation ],
-                Hard: [ Systems Programming ]
+                Hard: [ Data Structures Algoritms and Analysis (DAA), Systems Programming ]
             }
         },
 

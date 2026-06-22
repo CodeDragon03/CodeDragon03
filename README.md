@@ -2,7 +2,7 @@
 
 <h1>git commit -m "Hello, I'm Jay" </h1>
 <blockquote style="margin-bottom:56px;">
-    Forward Deployed Engineer, AI Engineer | Deep Tech | Architecting Systems & Intelligence | High Performance Core System | TPC Member @ IEEE CSNT 2026
+    Forward Deployed Engineer | Deep Tech | Architecting Systems & Intelligence | High Performance Core System | TPC Member @ IEEE CSNT 2026
 </blockquote>
 
     "I love building things, and I believe code should be written for people first, computers second. Less head-scratching, more high-fives!."

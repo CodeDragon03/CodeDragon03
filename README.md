@@ -51,8 +51,6 @@
 
         "Yheaa": {
             Publication: 'Got my first paper published at IEEE CSTN 2026',
-            DAA: 'Completed Backtracking, Graph and DP are the only things left',
-            K&R: 'Completed chapter 4'
         }
 
         "Gig": "Full Time | Internship (where coffee flows freely)",

@@ -43,7 +43,7 @@
             Databases: [],
             Skills: {
                 Soft: [ Problem Solving, Ideation, Storytelling ],
-                Hard: [ Data Structures Algoritms and Analysis (DAA), Systems Programming ]
+                Hard: [ Data Structures Algoritms and Analysis (DAA), Mnaual Memory Managment, Concurrency (Locks), Systems Programming ]
             }
         },
 

@@ -39,11 +39,11 @@
 
         "Issues": {
             Languages: [ C ],
-            Frameworks: [],
-            Databases: [],
+            Frameworks: [ ],
+            Databases: [ ],
             Skills: {
-                Soft: [ Problem Solving, Ideation, Storytelling ],
-                Hard: [ Data Structures Algoritms and Analysis (DAA), Concurrency (Locks), Systems Programming ]
+                Soft: { Problem Solving, Ideation, Storytelling },
+                Hard: { Data Structures Algoritms and Analysis (DAA), Concurrency (Locks), Systems Programming }
             }
         },
 

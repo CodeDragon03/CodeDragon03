@@ -56,8 +56,6 @@ May the people win.
 </em>
 <br/><br/>
 
-    Note: Anyone willing in the mission can mail me though, I'm not an expert but learning so with time want to gain strength so I can empower others too.
-
 <h3>Technical Specification (TPS):</h3>
 
 <span style="margin-bottom:48px; float:left;">

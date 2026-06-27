@@ -20,11 +20,35 @@
 
 </div>
 
+
                                         I must Create a System, or be enslav’d by another Man’s; 
                                         I will Reason but not Compare, my business is to Create. 
 
                                                                                                                    William Blake
+                                                                                                                   
+<h3>Alliance of the Willing</h3>
+The ( Alliance of the Willing )<sup>Foundation</sup> is an attempt to empower people's first and machine's second way of internet.
+We are actively working to restore balance, correcting the systemic flaws of the past to avert the absolute control and 
+surveillance state we are all currently sleepwalking into. While we stand firmly for the vulnerable, this protection cannot come
+at the cost of our collective liberty. Rushing blindly into restrictive, locked down systems only allows the <bold>bad actors</bold> 
+cloaked as saviors to <bold> masquerade </bold> as the <bold> resistance </bold>.
+<br/><br/>
+Furthermore, we are dismantling the economic model of our time. We are taking aim at the legacy Imperial monopolies that have 
+completely sidelined the everyday citizen. To move forward, we must forge our own infrastructure from the ground up. We are want to 
+reengineer the foundational computing architecture and development practices to rip control out of the hands of the syndicates, 
+ensuring the power of technology belongs to the people.
+<br/><br/>
+May the people win.
+<br/><br/>
+<bold> 
+    Mission Statement 
+</bold>: 
+<italic> 
+    The AOW <sup>Foundation</sup> isn't waiting for the future to happen. We are building the infrastructure to take it back to the people. 
+</italic>
+<br/><br/>
 
+    Note: Anyone willing in the mission can mail me though, I'm not an expert but learning so with time want to gain strength so I can empower others too.
 
 <h3>Technical Specification (TPS):</h3>
 

@@ -44,11 +44,12 @@
             Databases: [ ],
             Skills: {
                 Soft: { Problem Solving, Ideation, Storytelling },
-                Hard: { Data Structures Algoritms and Analysis (DAA), Concurrency (Locks), Systems Programming }
+                Hard: { Data Structures Algoritms and Analysis (DAA), Concurrency (Locks), 
+                        Manual Memory Managment, Systems Programming }
             }
         },
 
-        "Quest": "On the hunt with K & R for the tast of C.",
+        "Quest": "Working on the chess and suduko with C",
 
         "Yheaa": {
             Publication: 'Got my first paper published at IEEE CSTN 2026',

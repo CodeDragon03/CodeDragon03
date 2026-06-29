@@ -39,7 +39,7 @@
         "Digital Postbox": "jay7666.social@gmail.com",
 
         "Issues": {
-            Languages: [ C ],
+            Languages: [ C, Rust ],
             Frameworks: [ ],
             Databases: [ ],
             Skills: {

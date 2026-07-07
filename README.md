@@ -49,10 +49,10 @@
             }
         },
 
-        "Quest": "Working on the chess and suduko with C",
+        "Quest": "Working on the chess and suduko engine with C",
 
         "Yheaa": {
-            Publication: 'Got my first paper published at IEEE CSTN 2026',
+            ...
         }
 
         "Gig": "Full Time | Internship (where coffee flows freely)",

@@ -39,20 +39,22 @@
         "Digital Postbox": "jay7666.social@gmail.com",
 
         "Issues": {
-            Languages: [ C, Rust ],
-            Frameworks: [ ],
-            Databases: [ ],
+            Languages: [ C, Cpp, Rust ],
+            Databases: [ MySQL, MongoDB ],
+            Frameworks: [ Actix, Leptos, WinRecator ],
+            Ohter: [ ],
             Skills: {
-                Soft: { Problem Solving, Ideation, Storytelling },
-                Hard: { Data Structures Algoritms and Analysis (DAA), Concurrency (Locks), 
-                        Manual Memory Managment, Systems Programming }
+                Soft: { Problem Solving, Ideation, Storytelling, Engineering  },
+                Hard: { Operation Sysytems (OS), Computer Networks (CN), Objected Oriented Programming (OOP), System Design,
+                        Data Structures Algoritms and Analysis (DAA), Concurrency (Locks), Manual Memory Managment, Design Pattern,
+                        Systems Programming, Distributed Systems, Software Architecture }
             }
         },
 
-        "Quest": "Working on the chess and suduko engine with C",
+        "Quest": "Learning Phase",
 
         "Yheaa": {
-            ...
+            "IEEE Publication (CSTN26)"
         }
 
         "Gig": "Full Time | Internship (where coffee flows freely)",

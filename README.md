@@ -42,16 +42,16 @@
             Languages: [ C, Cpp, Rust ],
             Databases: [ MySQL, MongoDB ],
             Frameworks: [ Actix, Leptos, WinRecator ],
-            Ohter: [ ],
             Skills: {
-                Soft: { Problem Solving, Ideation, Storytelling, Engineering  },
-                Hard: { Operation Sysytems (OS), Computer Networks (CN), Objected Oriented Programming (OOP), System Design,
-                        Data Structures Algoritms and Analysis (DAA), Concurrency (Locks), Manual Memory Managment, Design Pattern,
-                        Systems Programming, Distributed Systems, Software Architecture }
+                Soft: [ Problem Solving, Ideation, Storytelling, Engineering ],
+                Hard: [ Operation Sysytems (OS), Computer Networks (CN), Objected Oriented Programming (OOP), System Design,
+                        Data Structures Algoritms and Analysis (DAA), Concurrency (Locks), Manual Memory Managment,
+                        Systems Programming, Design Pattern, Distributed Systems, Software Architecture ],
+                Other: [  ]
             }
         },
 
-        "Quest": "Learning Phase",
+        "Quest": "On the hunt with K and R (Chapter 5), for the tast of C",
 
         "Yheaa": {
             "IEEE Publication (CSTN26)"

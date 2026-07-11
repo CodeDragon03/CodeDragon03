@@ -44,14 +44,13 @@
             Frameworks: [ Actix, Leptos, WinRecator ],
             Skills: {
                 Soft: [ Problem Solving, Ideation, Storytelling, Engineering ],
-                Hard: [ Operation Sysytems (OS), Computer Networks (CN), Objected Oriented Programming (OOP), System Design,
-                        Data Structures Algoritms and Analysis (DAA), Concurrency (Locks), Manual Memory Managment,
-                        Systems Programming, Design Pattern, Distributed Systems, Software Architecture ],
-                Other: [  ]
+                Core: [ Operation Sysytems (OS), Computer Networks (CN), Objected Oriented Programming (OOP), ]
+                Hard: [ System Design, Data Structures Algoritms and Analysis (DAA), Concurrency (Locks), Manual Memory Managment, Systems Programming,
+                        System Design, Design Pattern, Software Architecture, Distributed Systems, ],
             }
         },
 
-        "Quest": "On the hunt with K and R (Chapter 5), for the tast of C",
+        "Quest": "On the hunt with K and R (Chapter 6), for the tast of C",
 
         "Yheaa": {
             "IEEE Publication (CSTN26)"

@@ -38,16 +38,17 @@
 
         "Digital Postbox": "jay7666.social@gmail.com",
 
-        "Issues": {
+        "Stack": {
             Languages: [ C, Cpp, Rust ],
             Databases: [ MySQL, MongoDB ],
             Frameworks: [ Actix, Leptos, WinRecator ],
-            Skills: {
-                Soft: [ Problem Solving, Ideation, Storytelling, Engineering ],
-                Core: [ Operation Sysytems (OS), Computer Networks (CN), Objected Oriented Programming (OOP), ]
-                Hard: [ Systems Programming, Data Structures Algoritms and Analysis, Concurrency (Locks), Manual Memory Managment,
+        },
+        
+        "Skills": {
+            Soft: [ Problem Solving, Ideation, Storytelling, Engineering ],
+            Core: [ Operation Sysytems (OS), Computer Networks (CN), Objected Oriented Programming (OOP), ]
+            Hard: [ Systems Programming, Data Structures Algoritms and Analysis, Concurrency (Locks), Manual Memory Managment,
                         System Design, Design Pattern, Software Architecture, Distributed Systems, ],
-            }
         },
 
         "Quest": "On the hunt with K and R (Chapter 6), for the tast of C",

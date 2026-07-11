@@ -45,7 +45,7 @@
             Skills: {
                 Soft: [ Problem Solving, Ideation, Storytelling, Engineering ],
                 Core: [ Operation Sysytems (OS), Computer Networks (CN), Objected Oriented Programming (OOP), ]
-                Hard: [ System Design, Data Structures Algoritms and Analysis (DAA), Concurrency (Locks), Manual Memory Managment, Systems Programming,
+                Hard: [ Systems Programming, Data Structures Algoritms and Analysis, Concurrency (Locks), Manual Memory Managment,
                         System Design, Design Pattern, Software Architecture, Distributed Systems, ],
             }
         },

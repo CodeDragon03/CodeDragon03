@@ -53,8 +53,7 @@
             Core: [ Operation Sysytems, Computer Networks, Objected Oriented Programming, Database Managment and Systems,
                     Computer Orgamnization and Architecture, Complier Design,  Software Architecture, ]
             Hard: [ Systems Programming, Data Structures Algoritms and Analysis, Concurrency (Locks), Manual Memory Managment,
-                    Scripting (bash), System Design, Design Pattern, Distributed Systems,
-                    Telemetry, ],
+                    Scripting (bash), System Design, Design Pattern, Distributed Systems, Telemetry, ],
         },
 
         "Quest": "On the hunt with K and R (Chapter 6), for the tast of C",

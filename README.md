@@ -37,18 +37,22 @@
         "Origin Story": "Born in India, powered by coffee and code.",
 
         "Digital Postbox": "jay7666.social@gmail.com",
+        
 
         "Stack": {
-            Languages: [ C, Cpp, Rust ],
-            Databases: [ MySQL, MongoDB ],
-            Frameworks: [ Actix, Leptos, WinRecator ],
+            Languages: [ C, Bash, Cpp, Rust, Python, ],
+            Databases: [ SQL, MongoDB, VectorDB, ],
+            Frameworks: [ Actix, Leptos, WinRecator, PyTorch, Tensorflow, ],
+            AdvanceKit: [ Kafka, Dockor, Kubernetes, Nigx, Terborepo, ],
         },
+
+        "Tools": [ gitHub (workflow, tree, actions), git (VCS), ],
         
         "Skills": {
-            Soft: [ Problem Solving, Ideation, Storytelling, Engineering ],
-            Core: [ Operation Sysytems (OS), Computer Networks (CN), Objected Oriented Programming (OOP), ]
+            Soft: [ Problem Solving, Ideation, Storytelling, Engineering, ],
+            Core: [ Operation Sysytems, Computer Networks, Objected Oriented Programming, Database Managment and Systems, ]
             Hard: [ Systems Programming, Data Structures Algoritms and Analysis, Concurrency (Locks), Manual Memory Managment,
-                        System Design, Design Pattern, Software Architecture, Distributed Systems, ],
+                    Scripting, System Design, Design Pattern, Software Architecture, Distributed Systems, ],
         },
 
         "Quest": "On the hunt with K and R (Chapter 6), for the tast of C",

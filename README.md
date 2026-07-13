@@ -43,7 +43,7 @@
             Languages: [ C, Cpp, Rust, Python, ],
             Databases: [ SQL, MongoDB, ],
             Frameworks: [ Actix, Leptos, WinRecator, PyTorch, Tensorflow, ],
-            AdvanceKit: [ Kafka, Redis, Dockor, Kubernetes, Nigx, Terborepo, ],
+            AdvanceSpec: [ Kafka, Redis, Dockor, Kubernetes, Nigx, Terborepo, ],
         },
 
         "Tools": [ gitHub (workflow, tree, actions), git (VCS), linux (ubuntu), ],

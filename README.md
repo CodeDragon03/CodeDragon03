@@ -40,19 +40,19 @@
         
 
         "Stack": {
-            Languages: [ C, Bash, Cpp, Rust, Python, ],
+            Languages: [ C, Cpp, Rust, Python, ],
             Databases: [ SQL, MongoDB, VectorDB, ],
             Frameworks: [ Actix, Leptos, WinRecator, PyTorch, Tensorflow, ],
             AdvanceKit: [ Kafka, Dockor, Kubernetes, Nigx, Terborepo, ],
         },
 
-        "Tools": [ gitHub (workflow, tree, actions), git (VCS), ],
+        "Tools": [ gitHub (workflow, tree, actions), git (VCS), linux (Ubuntu), ],
         
         "Skills": {
             Soft: [ Problem Solving, Ideation, Storytelling, Engineering, ],
             Core: [ Operation Sysytems, Computer Networks, Objected Oriented Programming, Database Managment and Systems, ]
             Hard: [ Systems Programming, Data Structures Algoritms and Analysis, Concurrency (Locks), Manual Memory Managment,
-                    Scripting, System Design, Design Pattern, Software Architecture, Distributed Systems, ],
+                    Scripting (bash), System Design, Design Pattern, Software Architecture, Distributed Systems, ],
         },
 
         "Quest": "On the hunt with K and R (Chapter 6), for the tast of C",

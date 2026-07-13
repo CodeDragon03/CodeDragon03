@@ -46,13 +46,15 @@
             AdvanceSpec: [ Kafka, Redis, Dockor, Kubernetes, Nigx, Terborepo, ],
         },
 
-        "Tools": [ gitHub (workflow, tree, actions), git (VCS), linux (ubuntu), ],
+        "Tools": [ gitHub (workflow, tree, actions), git (VCS), ],
         
         "Skills": {
             Soft: [ Problem Solving, Ideation, Storytelling, Engineering, ],
-            Core: [ Operation Sysytems, Computer Networks, Objected Oriented Programming, Database Managment and Systems, ]
+            Core: [ Operation Sysytems, Computer Networks, Objected Oriented Programming, Database Managment and Systems,
+                    Computer Orgamnization and Architecture, Complier Design,  Software Architecture, ]
             Hard: [ Systems Programming, Data Structures Algoritms and Analysis, Concurrency (Locks), Manual Memory Managment,
-                    Scripting (bash), System Design, Design Pattern, Software Architecture, Distributed Systems, ],
+                    Scripting (bash), System Design, Design Pattern, Distributed Systems,
+                    Telemetry, ],
         },
 
         "Quest": "On the hunt with K and R (Chapter 6), for the tast of C",

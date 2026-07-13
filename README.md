@@ -41,12 +41,12 @@
 
         "Stack": {
             Languages: [ C, Cpp, Rust, Python, ],
-            Databases: [ SQL, MongoDB, VectorDB, ],
+            Databases: [ SQL, MongoDB, ],
             Frameworks: [ Actix, Leptos, WinRecator, PyTorch, Tensorflow, ],
-            AdvanceKit: [ Kafka, Dockor, Kubernetes, Nigx, Terborepo, ],
+            AdvanceKit: [ Kafka, Redis, Dockor, Kubernetes, Nigx, Terborepo, ],
         },
 
-        "Tools": [ gitHub (workflow, tree, actions), git (VCS), linux (Ubuntu), ],
+        "Tools": [ gitHub (workflow, tree, actions), git (VCS), linux (ubuntu), ],
         
         "Skills": {
             Soft: [ Problem Solving, Ideation, Storytelling, Engineering, ],

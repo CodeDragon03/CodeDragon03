@@ -19,12 +19,6 @@
 ![snake animation](https://raw.githubusercontent.com/CodeDragon03/CodeDragon03/output/github-contribution-grid-snake.svg)
 
 </div>
-
-
-                                        I must Create a System, or be enslav’d by another Man’s; 
-                                        I will Reason but not Compare, my business is to Create. 
-
-                                                                                                                   William Blake
                                                                                                                    
 
 <h3>Technical Specification (TPS):</h3>

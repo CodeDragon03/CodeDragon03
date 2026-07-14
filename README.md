@@ -59,7 +59,7 @@
                 Frameworks: [ Tensorflow, PyTorch, FastAPI ],
             },
 
-            "Deployment": [ Vercel, huggingFace (model), AWS (projectExperience), ]
+            "Deployment": [ Vercel, huggingFace (inference), AWS (projectExperience), ]
         },
         
         "Skills": {

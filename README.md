@@ -45,13 +45,17 @@
             
             "applicationDev": {
                 Languages: [ Rust, YMAL, ],
+                
                 Databases: [ SQL, MongoDB, ],
+                
                 Frameworks: [ Actix (server), Leptos (client), WinRecator (client), ],
-                Distributed: [ Kafka, Redis, Dockor, Kubernetes, Nigx, Terborepo, ],
+                
+                Distributed: [ OpenAPI, Kafka, Redis, Dockor, Kubernetes, Nigx, Terborepo, ],
             },
             
             "inferenceDev": {
                 Languages: [ Python, ],
+                
                 Frameworks: [ Tensorflow, PyTorch ],
             }
         },

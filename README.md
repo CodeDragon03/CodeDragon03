@@ -36,7 +36,7 @@
 
         "Origin": "Born in India, powered by coffee and code.",
 
-        "Postbox": "jay7666.social@gmail.com",
+        "Postbox": "jay7666.professional@gmail.com",
 
         "Stack": {
             "systemsProgramming": {

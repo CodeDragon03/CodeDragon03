@@ -56,8 +56,10 @@
             "inferenceDev": {
                 Languages: [ Python, ],
                 
-                Frameworks: [ Tensorflow, PyTorch ],
-            }
+                Frameworks: [ Tensorflow, PyTorch, FastAPI ],
+            },
+
+            "Deployment": [ Vercel, huggingFace (model), AWS (projectExperience), ]
         },
         
         "Skills": {
@@ -66,7 +68,7 @@
             Core: [ Operation Sysytems, Computer Networks, Objected Oriented Programming, Database Managment and Systems, ],
                     
             Hard: [ Systems Programming (C), Data Structures Algoritms and Analysis, Concurrency (Locks),
-                    Manual Memory Managment (C + Cpp), Telemetry, System Design, Design Pattern (Cpp + Rust), 
+                    Manual Memory Managment (C + Cpp), Telemetry, Hosting, System Design, Design Pattern (Cpp + Rust), 
                     Distributed Systems, ],
                     
             Extra: [ gitHub (workflow, tree, actions), git (VCS), ]

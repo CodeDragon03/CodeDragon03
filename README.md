@@ -32,11 +32,11 @@
 <span style="margin-bottom:48px; float:left;">
 
     {
-       "Known By": "Jay Yadav",
+       "Known": "Jay Yadav",
 
-        "Origin Story": "Born in India, powered by coffee and code.",
+        "Origin": "Born in India, powered by coffee and code.",
 
-        "Digital Postbox": "jay7666.social@gmail.com",
+        "Postbox": "jay7666.social@gmail.com",
 
         "Stack": {
             "systemsProgramming": {
@@ -83,11 +83,9 @@
         "Gig": "Full Time | Internship (where coffee flows freely)",
 
         "Adventure Coordinates": {
-
             "India": "On-site for the good vibes.",
 
             "Beyond Borders": "Remote, because my code travels well."
-
         }
     }
 

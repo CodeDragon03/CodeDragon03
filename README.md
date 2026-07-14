@@ -66,7 +66,8 @@
             Core: [ Operation Sysytems, Computer Networks, Objected Oriented Programming, Database Managment and Systems, ],
                     
             Hard: [ Systems Programming (C), Data Structures Algoritms and Analysis, Concurrency (Locks),
-                    Manual Memory Managment (C + Cpp), System Design, Design Pattern (Cpp + Rust), Distributed Systems, Telemetry, ],
+                    Manual Memory Managment (C + Cpp), Telemetry, System Design, Design Pattern (Cpp + Rust), 
+                    Distributed Systems, ],
                     
             Extra: [ gitHub (workflow, tree, actions), git (VCS), ]
         },

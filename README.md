@@ -37,23 +37,34 @@
         "Origin Story": "Born in India, powered by coffee and code.",
 
         "Digital Postbox": "jay7666.social@gmail.com",
-        
 
         "Stack": {
-            Languages: [ C, Cpp, Rust, Python, ],
-            Databases: [ SQL, MongoDB, ],
-            Frameworks: [ Actix, Leptos, WinRecator, PyTorch, Tensorflow, ],
-            AdvanceSpec: [ Kafka, Redis, Dockor, Kubernetes, Nigx, Terborepo, ],
+            "systemsProgramming": {
+                Languages: [ C, Cpp, Bash ],
+            },
+            
+            "applicationDev": {
+                Languages: [ Rust, YMAL, ],
+                Databases: [ SQL, MongoDB, ],
+                Frameworks: [ Actix (server), Leptos (client), WinRecator (client), ],
+                Distributed: [ Kafka, Redis, Dockor, Kubernetes, Nigx, Terborepo, ],
+            },
+            
+            "inferenceDev": {
+                Languages: [ Python, ],
+                Frameworks: [ Tensorflow, PyTorch ],
+            }
         },
-
-        "Tools": [ gitHub (workflow, tree, actions), git (VCS), ],
         
         "Skills": {
-            Soft: [ Problem Solving, Ideation, Storytelling, Engineering, ],
-            Core: [ Operation Sysytems, Computer Networks, Objected Oriented Programming, Database Managment and Systems,
-                    Computer Orgamnization and Architecture, Complier Design,  Software Architecture, ]
-            Hard: [ Systems Programming, Data Structures Algoritms and Analysis, Concurrency (Locks), Manual Memory Managment,
-                    Scripting (bash), System Design, Design Pattern, Distributed Systems, Telemetry, ],
+            Soft: [ Problem Solving, Ideation, Storytelling, ],
+            
+            Core: [ Operation Sysytems, Computer Networks, Objected Oriented Programming, Database Managment and Systems, ],
+                    
+            Hard: [ Systems Programming (C), Data Structures Algoritms and Analysis, Concurrency (Locks),
+                    Manual Memory Managment (C + Cpp), System Design, Design Pattern (Cpp + Rust), Distributed Systems, Telemetry, ],
+                    
+            Extra: [ gitHub (workflow, tree, actions), git (VCS), ]
         },
 
         "Quest": "On the hunt with K and R (Chapter 6), for the tast of C",

@@ -71,7 +71,7 @@
                     Manual Memory Managment (C + Cpp), Telemetry, Hosting, System Design, Design Pattern (Cpp + Rust), 
                     Distributed Systems, ],
                     
-            Extra: [ gitHub (workflow, tree, actions), git (VCS), ]
+            Colab: [ gitHub (workflow, tree, actions), git (VCS), googleColab (inference) ]
         },
 
         "Quest": "On the hunt with K and R (Chapter 6), for the tast of C",

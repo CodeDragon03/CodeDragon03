@@ -2,7 +2,7 @@
 
 <h1>git commit -m "Hello, I'm Jay" </h1>
 <blockquote style="margin-bottom:56px;">
-    Deep Tech | Architecting Systems & Intelligence | High Performance System Core 
+    Upcoming GET @ LTM | Deep Tech | Architecting Systems & Intelligence | High Performance System Core 
 </blockquote>
 
     "I love building things, and I believe code should be written for people first, computers second. Less head-scratching, more high-fives!."

@@ -46,14 +46,6 @@
                 
                 Distributed: [ OpenAPI, Kafka, Redis, Dockor, Kubernetes, Nigx, Terborepo, ],
             },
-            
-            "inferenceDev": {
-                Languages: [ Python, ],
-                
-                Frameworks: [ Tensorflow, PyTorch, FastAPI ],
-            },
-
-            "Deployment": [ Vercel, huggingFace (inference), AWS (projectExperience), ]
         },
         
         "Skills": {
